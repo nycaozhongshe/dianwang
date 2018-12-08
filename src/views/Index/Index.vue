@@ -9,7 +9,7 @@
 
         <div class="list__item"
              :style="{backgroundImage:`url(${$baseUrl}__imgs/entry/1.1.png)`} "
-             @click="gotoPage('/model')">
+             @click="gotoPage('/dangWei')">
 
         </div>
       </div>
@@ -30,7 +30,7 @@
 
 <script>
 // 'model',
-let list = ['modelList', '/dangWei']
+let list = ['/model', 'modelList',]
 export default {
   name: 'Index',
 
