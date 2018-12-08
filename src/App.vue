@@ -1,0 +1,67 @@
+<template>
+  <div id="app">
+    <el-container direction="vertical">
+      <!-- <Header></Header> -->
+      <el-main>
+        <keep-alive v-if="isRouterAlive">
+          <router-view />
+        </keep-alive>
+      </el-main>
+      <!-- <Footer style="height:auto;"></Footer> -->
+    </el-container>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'App',
+  provide () { // 注册一个方法
+    return {
+      reload: this.reload
+    }
+  },
+
+  components: {
+
+  },
+  data () {
+    return {
+      set: false,
+      isRouterAlive: true
+    }
+  },
+
+  created () {
+    // let a = unescape('10\u6218\u7965\u771f')
+    // eslint-disable-next-line
+    // console.log(a);
+
+  },
+
+  mounted () { },
+
+  methods: {
+    reload () {
+      this.isRouterAlive = false
+      this.$nextTick(function () {
+        this.isRouterAlive = true
+      })
+    }
+
+  }
+}
+</script>
+
+<style lang="scss" >
+#app {
+  width: 100%;
+  height: 100%;
+  .el-container {
+    height: 100%;
+  }
+  .el-main {
+    padding: 0;
+    height: 100%;
+  }
+}
+</style>
