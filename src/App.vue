@@ -13,6 +13,7 @@
 </template>
 
 <script>
+
 export default {
   name: 'App',
   provide () { // 注册一个方法
@@ -34,7 +35,7 @@ export default {
   created () {
     // let a = unescape('10\u6218\u7965\u771f')
     // eslint-disable-next-line
-    // console.log(a);
+    // console.log(json);
 
   },
 

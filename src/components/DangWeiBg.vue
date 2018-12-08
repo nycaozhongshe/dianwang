@@ -8,7 +8,7 @@
     </div>
 
     <div class="position__warpper fanhui"
-         @click="gotoPage(prePath)">
+         @click="gotoPage()">
       <Icon icon-class="2fanhui"
             class-name="icon">
       </Icon>
@@ -39,9 +39,7 @@ export default {
   },
 
   props: {
-    prePath: {
-      require: true
-    }
+
   },
 
   data () {
@@ -60,11 +58,9 @@ export default {
   destroyed () { },
 
   methods: {
-    gotoPage (path) {
+    gotoPage () {
       // eslint-disable-next-line
-      console.log(path, 111)
-
-      this.$router.push(path)
+      this.$router.go(-1)
     }
   }
 }

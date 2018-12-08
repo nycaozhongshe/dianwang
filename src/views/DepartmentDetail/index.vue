@@ -8,7 +8,7 @@
         <div v-for="(item,index) in namelist"
              :key="index"
              @click="showImg(item)">
-          {{ trimNumber(item.src)}}
+          {{item.name}}
         </div>
       </div>
     </div>
@@ -26,8 +26,8 @@
                        :arrow="activeImgList&&activeImgList.length>1?'always':'never'"
                        :autoplay="false">
             <el-carousel-item v-for="item in activeImgList"
-                              :key="item.src">
-              <img :src="`./__imgs/departmentDetail/${item.src}.jpg`"
+                              :key="item">
+              <img :src="`./${item}`"
                    alt="">
 
             </el-carousel-item>
@@ -44,36 +44,7 @@
 import DangWeiBg from '@/components/DangWeiBg'
 
 
-let namelist1 = [
-  { src: '4任志刚', imgLIst: [{ src: '4任志刚' }] },
-  { src: '1田婕', imgLIst: [{ src: '1田婕' }] },
-  { src: '2张兵', imgLIst: [{ src: '2张兵' }] },
-  { src: '3刘震', imgLIst: [{ src: '3刘震' }] },
-  { src: '5李新元', imgLIst: [{ src: '5李新元' }] },
-  { src: '6申海福', imgLIst: [{ src: '6申海福' }] },
-  { src: '7马玲', imgLIst: [{ src: '7马玲' }] },
-  { src: '8王茜', imgLIst: [{ src: '8王茜' }] },
-  { src: '9郭蔚', imgLIst: [{ src: '9郭蔚' }] },
-  { src: '10战祥真', imgLIst: [{ src: '10战祥真' }] },
-  { src: '11刘闻', imgLIst: [{ src: '11刘闻' }] },
-  { src: '12张晓明', imgLIst: [{ src: '12张晓明' }] },
-  { src: '13王晓洁', imgLIst: [{ src: '13王晓洁' }] }
-]
 
-let namelist2 = [
-
-  { src: '吕平', imgLIst: [{ src: '吕平' }, { src: '吕平1' }] },
-  { src: '陈元柏', imgLIst: [{ src: '陈元柏' }, { src: '陈元柏1' }] },
-  { src: '朱国军', imgLIst: [{ src: '朱国军' }, { src: '朱国军1' }] },
-  { src: '孙占功', imgLIst: [{ src: '孙占功' }, { src: '孙占功1' }] },
-  { src: '王辉云', imgLIst: [{ src: '王辉云' }, { src: '王辉云1' }] },
-  { src: '张磊', imgLIst: [{ src: '张磊' }, { src: '张磊1' }] },
-  { src: '金宝', imgLIst: [{ src: '金宝' }, { src: '金宝1' }] },
-  { src: '田明杰', imgLIst: [{ src: '田明杰' }, { src: '田明杰1' }] },
-
-
-
-]
 export default {
   name: 'DepartmentDetail',
 
@@ -88,6 +59,7 @@ export default {
   data () {
     return {
       title: '党建部党支部',
+      // '带电工作室党支部'
       centerDialogVisible: false,
       namelist: [],
       activeImgList: []
@@ -98,21 +70,10 @@ export default {
   watch: {
     '$route.query.name': {
       handler (val) {
-        // eslint-disable-next-line
-        console.log(val);
-
         if (val) {
-          if (this.$route.query.name === '党建部党支部') {
-            // eslint-disable-next-line
-            console.log(111111);
-            this.namelist = namelist1
-          } else if (this.$route.query.name === '带电作业室党支部') {
-            this.namelist = namelist2
-          } else {
-            this.namelist = []
-
-          }
-
+          // eslint-disable-next-line
+          console.log();
+          this.namelist = JSON.parse(this.$route.query.list)
         }
       },
       immediate: true, // 立马执行一次handler
@@ -134,10 +95,13 @@ export default {
 
     },
     trimNumber (str) {
-      return str.replace(/\d+/g, '');
+      return str;
     },
     showImg (item) {
-      this.activeImgList = Object.assign([], item.imgLIst)
+      // eslint-disable-next-line
+      console.log(item);
+
+      this.activeImgList = Object.assign([], item.child)
       this.centerDialogVisible = true
     }
   }

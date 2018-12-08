@@ -31,8 +31,7 @@
 
 <script>
 import DangWeiBg from '@/components/DangWeiBg'
-import data from './data.js'
-
+import json from "@/key_val.json";
 export default {
   name: 'Dangwei',
 
@@ -46,7 +45,6 @@ export default {
 
   data () {
     return {
-      data,
       topDatalist: [],
       bottomDataList: []
     }
@@ -58,16 +56,18 @@ export default {
   created () {
 
 
-    this.data.forEach((item, index) => {
+    this.initJson().forEach((item, index) => {
       if (index < 3) {
-        this.topDatalist.push({ name: item.name })
+        this.topDatalist.push(item)
       } else {
-        this.bottomDataList.push({ name: item.name })
+        this.bottomDataList.push(item)
       }
 
     })
 
+
     // eslint-disable-next-line
+    console.log(this.topDatalist);
 
 
   },
@@ -77,11 +77,24 @@ export default {
   destroyed () { },
 
   methods: {
+    initJson () {
+      let object = json.dw.child
+      let data = []
+      for (const key in object) {
+        if (object.hasOwnProperty(key)) {
+          const element = object[key];
+          data.push(element)
+        }
+      }
+
+      return data
+    },
     gotoPage (path, item) {
       this.$router.push({
         path,
         query: {
-          name: item.name
+          name: item.name,
+          list: JSON.stringify(item.child)
         }
       })
     }
