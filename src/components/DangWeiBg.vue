@@ -17,7 +17,7 @@
     </div>
 
     <div class="position__warpper zhuye"
-         @click="gotoPage('/')">
+         @click="gotoHome">
       <Icon icon-class="zhuye"
             class-name="icon">
       </Icon>
@@ -61,6 +61,11 @@ export default {
     gotoPage () {
       // eslint-disable-next-line
       this.$router.go(-1)
+      this.$emit('clear')
+    },
+    gotoHome () {
+      this.$router.push('/')
+      this.$emit('clear')
     }
   }
 }

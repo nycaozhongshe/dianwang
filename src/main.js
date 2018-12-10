@@ -3,11 +3,12 @@ import 'babel-polyfill'
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import '@/router/permission'
+
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 // import i18n from './i18n/i18n.js'
 // import VueLazyload from 'vue-lazyload'
-import '@/router/permission'
 import '@/style/reset.scss'
 
 import '@/style/index.scss'

@@ -5,48 +5,1557 @@
             "1gwjnslcqgdgsdw": {
                 "name": "\u56fd\u7f51\u6d4e\u5357\u5e02\u5386\u57ce\u533a\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
                 "child": {
-                    "1gddzw": {
-                        "name": "\u4f9b\u7535\u515a\u652f\u59d4",
-                        "child": []
+                    "机关党支部": {
+                        "name": "机关党支部"
+                    },
+                    "运维检修部党支部": {
+                        "name": "运维检修部党支部"
+                    },
+                    "营销部党支部": {
+                        "name": "营销部党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "物资供应分中心党支部": {
+                        "name": "物资供应分中心党支部"
+                    },
+                    "综合服务中心党支部": {
+                        "name": "综合服务中心党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "历源公司党支部": {
+                        "name": "历源公司党支部"
+                    },
+                    "郭店供电所党支部": {
+                        "name": "郭店供电所党支部"
+                    },
+                    "遥墙供电所党支部": {
+                        "name": "遥墙供电所党支部"
+                    },
+                    "彩石供电所党支部": {
+                        "name": "彩石供电所党支部"
+                    },
+                    "唐王供电所党支部": {
+                        "name": "唐王供电所党支部"
+                    },
+                    "港沟供电所党支部": {
+                        "name": "港沟供电所党支部"
+                    },
+                    "西营供电所党支部": {
+                        "name": "西营供电所党支部"
+                    },
+                    "柳埠供电所党支部": {
+                        "name": "柳埠供电所党支部"
+                    },
+                    "仲宫供电所党支部": {
+                        "name": "仲宫供电所党支部"
+                    },
+                    "王舍人供电所党支部": {
+                        "name": "王舍人供电所党支部"
                     }
                 }
             },
             "2gwjnsgdgsdw": {
-                "name": "\u56fd\u7f51\u6d4e\u5357\u5e02\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
+                "name": "\u56fd\u7f51\u6d4e\u5357\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
                 "child": {
-                    "2bgsdzb": {
-                        "name": "\u529e\u516c\u5ba4\u515a\u652f\u90e8",
+                    "办公室党支部": {
+                        "name": "办公室党支部"
+                    },
+                    "发展部党支部": {
+                        "name": "发展部党支部"
+                    },
+                    "财务部党支部": {
+                        "name": "财务部党支部"
+                    },
+                    "安质部党支部": {
+                        "name": "安质部党支部"
+                    },
+                    "建设部党支部": {
+                        "name": "建设部党支部"
+                    },
+                    "审计部党支部": {
+                        "name": "审计部党支部"
+                    },
+                    "组织部党支部": {
+                        "name": "组织部党支部"
+                    },
+                    "djbdzb": {
+                        "name": "\u515a\u5efa\u90e8\u515a\u652f\u90e8",
                         "child": {
-                            "1zs": {
-                                "name": "\u5f20\u4e09",
+                            "1rzg": {
+                                "name": "\u4efb\u5fd7\u521a",
                                 "child": [
-                                    "dw\/2gwjnsgdgsdw\/2bgsdzb\/1zs\/1.jpg",
-                                    "dw\/2gwjnsgdgsdw\/2bgsdzb\/1zs\/2.png"
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/1rzg\/1rzg.jpg"
+                                ]
+                            },
+                            "2tj": {
+                                "name": "\u7530\u5a55",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/tianjie.mp4",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/7tj.jpg",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/6.jpg",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/5tj.jpg",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/3tj.jpg",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/4tj.jpg",
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/2tj\/2tj.jpg"
+                                ]
+                            },
+                            "3lz": {
+                                "name": "\u5218\u9707",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/3lz\/3lz.jpg"
+                                ]
+                            },
+                            "4wxj": {
+                                "name": "\u738b\u6653\u6d01",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/4wxj\/1wxj.jpg"
+                                ]
+                            },
+                            "5lxy": {
+                                "name": "\u674e\u65b0\u5143",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/5lxy\/5lxy.jpg"
+                                ]
+                            },
+                            "6shf": {
+                                "name": "\u7533\u6d77\u798f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/6shf\/6shf.jpg"
+                                ]
+                            },
+                            "7ml": {
+                                "name": "\u9a6c\u73b2",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/7ml\/7ml.jpg"
+                                ]
+                            },
+                            "8wq": {
+                                "name": "\u738b\u831c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/8wq\/8wq.jpg"
+                                ]
+                            },
+                            "9gw": {
+                                "name": "\u90ed\u851a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/9gw\/9gw.jpg"
+                                ]
+                            },
+                            "10zxz": {
+                                "name": "\u6218\u7965\u771f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/10zxz\/10zxz.jpg"
+                                ]
+                            },
+                            "11lw": {
+                                "name": "\u5218\u95fb",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/11lw\/11lw.jpg"
+                                ]
+                            },
+                            "12zxm": {
+                                "name": "\u5f20\u6653\u660e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/12zxm\/12zxm.jpg"
+                                ]
+                            },
+                            "13zb": {
+                                "name": "\u5f20\u5175",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/djbdzb\/13zb\/13zb.jpg"
                                 ]
                             }
                         }
+                    },
+                    "监察部党支部": {
+                        "name": "监察部党支部"
+                    },
+                    "运监中心党支部": {
+                        "name": "运监中心党支部"
+                    },
+                    "运维检修部党支部": {
+                        "name": "运维检修部党支部"
+                    },
+                    "变电运维室党支部": {
+                        "name": "变电运维室党支部"
+                    },
+                    "输电运检室党支部": {
+                        "name": "输电运检室党支部"
+                    },
+                    "配电运检室党支部": {
+                        "name": "配电运检室党支部"
+                    },
+                    "电缆运检室党支部": {
+                        "name": "电缆运检室党支部"
+                    },
+                    "ddzysdzb": {
+                        "name": "\u5e26\u7535\u4f5c\u4e1a\u5ba4\u515a\u652f\u90e8",
+                        "child": {
+                            "1lp": {
+                                "name": "\u5415\u5e73",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/1lp\/lp1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/1lp\/lp.jpg"
+                                ]
+                            },
+                            "2cyb": {
+                                "name": "\u9648\u5143\u67cf",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/2cyb\/cyb1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/2cyb\/cyb.jpg"
+                                ]
+                            },
+                            "3zgj": {
+                                "name": "\u6731\u56fd\u519b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/3zgj\/zgj1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/3zgj\/zgj.jpg"
+                                ]
+                            },
+                            "4szg": {
+                                "name": "\u5b59\u5360\u529f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/4szg\/szg1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/4szg\/szg.jpg"
+                                ]
+                            },
+                            "5why": {
+                                "name": "\u738b\u8f89\u4e91",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/5why\/why1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/5why\/why.jpg"
+                                ]
+                            },
+                            "6tmj": {
+                                "name": "\u7530\u660e\u6770",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/6tmj\/tmj1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/6tmj\/tmj.jpg"
+                                ]
+                            },
+                            "7zl": {
+                                "name": "\u5f20\u78ca",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/7zl\/zl1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/7zl\/zl.jpg"
+                                ]
+                            },
+                            "8jb": {
+                                "name": "\u91d1\u5b9d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/8jb\/jb1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/ddzysdzb\/8jb\/jb.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "bdjxsdedzb": {
+                        "name": "\u53d8\u7535\u68c0\u4fee\u5ba4\u7b2c\u4e8c\u515a\u652f\u90e8",
+                        "child": {
+                            "fzy": {
+                                "name": "\u4ed8\u5146\u8fdc",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/fzy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/fzy\/1.jpg"
+                                ]
+                            },
+                            "lcm": {
+                                "name": "\u5218\u6625\u660e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lcm\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lcm\/1.jpg"
+                                ]
+                            },
+                            "lz": {
+                                "name": "\u5218\u662d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lz\/1.jpg"
+                                ]
+                            },
+                            "lq": {
+                                "name": "\u5218\u6e05",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lq\/1.jpg"
+                                ]
+                            },
+                            "zyx": {
+                                "name": "\u5468\u8fce\u65b0",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zyx\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zyx\/1.jpg"
+                                ]
+                            },
+                            "zy": {
+                                "name": "\u5f20\u6654",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zy\/bdjxsdedzb2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zy\/25bdjxsdedzbzy2n9ymlhbecjggcdlhgqjy.JPG"
+                                ]
+                            },
+                            "zyq": {
+                                "name": "\u5f20\u6c38\u9752",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zyq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zyq\/1.jpg"
+                                ]
+                            },
+                            "zal": {
+                                "name": "\u5f20\u7231\u5170",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zal\/2dfb.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zal\/1dfb.jpg"
+                                ]
+                            },
+                            "zq": {
+                                "name": "\u5f20\u742a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zq\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zq\/1.jpg"
+                                ]
+                            },
+                            "lxl": {
+                                "name": "\u674e\u6653\u78ca",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lxl\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lxl\/1.jpg"
+                                ]
+                            },
+                            "lyn": {
+                                "name": "\u674e\u6c38\u5b81",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lyn\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/lyn\/1.jpg"
+                                ]
+                            },
+                            "ly": {
+                                "name": "\u674e\u6e90",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/ly\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/ly\/1.jpg"
+                                ]
+                            },
+                            "djy": {
+                                "name": "\u675c\u5609\u5bc5",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/djy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/djy\/1.jpg"
+                                ]
+                            },
+                            "wq": {
+                                "name": "\u738b\u5168",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wq\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wq\/1.jpg"
+                                ]
+                            },
+                            "wsy": {
+                                "name": "\u738b\u6dd1\u9896",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wsy\/0bdjxsdedzbwsy22n1yzlbdjxsbdecyjbbp.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wsy\/bdjxsdedzb9.jpg"
+                                ]
+                            },
+                            "wl": {
+                                "name": "\u738b\u7433",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wl\/1.jpg"
+                                ]
+                            },
+                            "wy": {
+                                "name": "\u738b\u9633",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/wy\/1.jpg"
+                                ]
+                            },
+                            "by": {
+                                "name": "\u767d\u52c7",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/by\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/by\/1.jpg"
+                                ]
+                            },
+                            "sn": {
+                                "name": "\u82cf\u5a1c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/sn\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/sn\/1.jpg"
+                                ]
+                            },
+                            "sx": {
+                                "name": "\u82cf\u6b23",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/sx\/1.jpg"
+                                ]
+                            },
+                            "xzy": {
+                                "name": "\u8bb8\u5fd7\u5143",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/xzy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/xzy\/3.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/xzy\/1.jpg"
+                                ]
+                            },
+                            "jcb": {
+                                "name": "\u8d3e\u4f20\u658c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/jcb\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/jcb\/1.jpg"
+                                ]
+                            },
+                            "zgy": {
+                                "name": "\u8d75\u5149\u5143",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zgy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zgy\/1.jpg"
+                                ]
+                            },
+                            "zhl": {
+                                "name": "\u8d75\u6cd3\u9716",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zhl\/1.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/zhl\/2.jpg"
+                                ]
+                            },
+                            "hcp": {
+                                "name": "\u97e9\u6625\u9e4f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/hcp\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/hcp\/1.jpg"
+                                ]
+                            },
+                            "gzl": {
+                                "name": "\u9ad8\u5146\u4e3d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/gzl\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/gzl\/1.jpg"
+                                ]
+                            },
+                            "gpl": {
+                                "name": "\u9ad8\u9e4f\u8def",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/gpl\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxsdedzb\/gpl\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "bdjxdydzb": {
+                        "name": "\u53d8\u7535\u68c0\u4fee\u7b2c\u4e00\u515a\u652f\u90e8",
+                        "child": {
+                            "dyl": {
+                                "name": "\u4e01\u7389\u7acb",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/dyl\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/dyl\/1.jpg"
+                                ]
+                            },
+                            "yx": {
+                                "name": "\u4e25\u73ba",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yx\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yx\/1.jpg"
+                                ]
+                            },
+                            "lj": {
+                                "name": "\u5218\u5065",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lj\/1.jpg"
+                                ]
+                            },
+                            "ljh": {
+                                "name": "\u5218\u5bb6\u8c6a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/ljh\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/ljh\/1.jpg"
+                                ]
+                            },
+                            "lk": {
+                                "name": "\u5218\u73c2",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lk\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lk\/1.jpg"
+                                ]
+                            },
+                            "lrq": {
+                                "name": "\u5218\u8363\u6cc9",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lrq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lrq\/1.jpg"
+                                ]
+                            },
+                            "spf": {
+                                "name": "\u53f2\u9e4f\u98de",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/spf\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/spf\/1.jpg"
+                                ]
+                            },
+                            "lxp": {
+                                "name": "\u5415\u6653\u5e73",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lxp\/1.jpg"
+                                ]
+                            },
+                            "wjc": {
+                                "name": "\u5434\u4fca\u8d85",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wjc\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wjc\/1.jpg"
+                                ]
+                            },
+                            "chq": {
+                                "name": "\u5d14\u7ea2\u5f3a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/chq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/chq\/1.jpg"
+                                ]
+                            },
+                            "zzf": {
+                                "name": "\u5e84\u632f\u798f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zzf\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zzf\/1.jpg"
+                                ]
+                            },
+                            "kqk": {
+                                "name": "\u5eb7\u5e86\u594e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/kqk\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/kqk\/3.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/kqk\/1.jpg"
+                                ]
+                            },
+                            "zw": {
+                                "name": "\u5f20  \u65fa",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zw\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zw\/1.jpg"
+                                ]
+                            },
+                            "zlq": {
+                                "name": "\u5f20\u5229\u7fa4",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zlq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zlq\/1.jpg"
+                                ]
+                            },
+                            "zyc": {
+                                "name": "\u6731\u6c38\u8d85",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zyc\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zyc\/3.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zyc\/4.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zyc\/1.jpg"
+                                ]
+                            },
+                            "zhb": {
+                                "name": "\u6731\u6d2a\u6ce2",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/zhb\/1.jpg"
+                                ]
+                            },
+                            "lx": {
+                                "name": "\u674e\u946b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lx\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lx\/1.jpg"
+                                ]
+                            },
+                            "lqz": {
+                                "name": "\u674e\u94a6\u67f1",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lqz\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lqz\/1.jpg"
+                                ]
+                            },
+                            "lzf": {
+                                "name": "\u6797\u5728\u5cf0",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lzf\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lzf\/3.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/lzf\/1.jpg"
+                                ]
+                            },
+                            "wyp": {
+                                "name": "\u738b\u4e91\u9e4f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wyp\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wyp\/1.jpg"
+                                ]
+                            },
+                            "wzw": {
+                                "name": "\u738b\u5b97\u6b66",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wzw\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wzw\/1.jpg"
+                                ]
+                            },
+                            "whg": {
+                                "name": "\u738b\u6d2a\u8d35",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/whg\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/whg\/1.jpg"
+                                ]
+                            },
+                            "wbz": {
+                                "name": "\u738b\u79c9\u9707",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wbz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wbz\/1.jpg"
+                                ]
+                            },
+                            "wxy": {
+                                "name": "\u738b\u96ea\u5ca9",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wxy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/wxy\/1.jpg"
+                                ]
+                            },
+                            "yqc": {
+                                "name": "\u8d20\u94a6\u8d85",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yqc\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yqc\/1.jpg"
+                                ]
+                            },
+                            "jt": {
+                                "name": "\u91d1  \u6d9b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/jt\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/jt\/1.jpg"
+                                ]
+                            },
+                            "yc": {
+                                "name": "\u95eb\u8d85",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yc\/3.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yc\/4.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yc\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/yc\/1.jpg"
+                                ]
+                            },
+                            "mzb": {
+                                "name": "\u9a6c\u6b63\u6ce2",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/mzb\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/mzb\/1.jpg"
+                                ]
+                            },
+                            "hxp": {
+                                "name": "\u9ec4\u6b23\u5e73",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/hxp\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/bdjxdydzb\/hxp\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "营销部党支部": {
+                        "name": "营销部党支部"
+                    },
+                    "市场室党支部": {
+                        "name": "市场室党支部"
+                    },
+                    "营业室党支部": {
+                        "name": "营业室党支部"
+                    },
+                    "计量室党支部": {
+                        "name": "计量室党支部"
+                    },
+                    "电动汽车党支部": {
+                        "name": "电动汽车党支部"
+                    },
+                    "槐荫分中心党支部": {
+                        "name": "槐荫分中心党支部"
+                    },
+                    "党家供电所党支部": {
+                        "name": "党家供电所党支部"
+                    },
+                    "槐荫工业园区供电所党支部": {
+                        "name": "槐荫工业园区供电所党支部"
+                    },
+                    "天桥分中心党支部": {
+                        "name": "天桥分中心党支部"
+                    },
+                    "北园供电所党支部": {
+                        "name": "北园供电所党支部"
+                    },
+                    "新材料产业园区供电所党支部": {
+                        "name": "新材料产业园区供电所党支部"
+                    },
+                    "开发区客户服务分中心党支部": {
+                        "name": "开发区客户服务分中心党支部"
+                    },
+                    "gxjskfqgdsdzb": {
+                        "name": "\u9ad8\u65b0\u6280\u672f\u5f00\u53d1\u533a\u4f9b\u7535\u6240\u515a\u652f\u90e8",
+                        "child": {
+                            "xyl": {
+                                "name": "\u590f\u52c7\u6797",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/xyl\/1.jpg"
+                                ]
+                            },
+                            "sjk": {
+                                "name": "\u5b59\u4eac\u594e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/sjk\/1.jpg"
+                                ]
+                            },
+                            "zmy": {
+                                "name": "\u5de6\u7f8e\u6d0b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zmy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zmy\/1.jpg"
+                                ]
+                            },
+                            "zjs": {
+                                "name": "\u5f20\u4eac\u80dc",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zjs\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zjs\/1.jpg"
+                                ]
+                            },
+                            "zdz": {
+                                "name": "\u5f20\u5fb7\u67f1",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zdz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/zdz\/1.jpg"
+                                ]
+                            },
+                            "xld": {
+                                "name": "\u5f90\u9c81\u4e1c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/xld\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/xld\/1.jpg"
+                                ]
+                            },
+                            "fzh": {
+                                "name": "\u65b9\u795a\u6d77",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/fzh\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/fzh\/1.jpg"
+                                ]
+                            },
+                            "lbz": {
+                                "name": "\u674e\u5b9d\u795d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lbz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lbz\/1.jpg"
+                                ]
+                            },
+                            "lnn": {
+                                "name": "\u674e\u7537\u7537",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lnn\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lnn\/1.jpg"
+                                ]
+                            },
+                            "lzj": {
+                                "name": "\u674e\u957f\u8fdb",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lzj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/lzj\/1.jpg"
+                                ]
+                            },
+                            "ysy": {
+                                "name": "\u6768\u65f6\u52c7",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/ysy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/ysy\/1.jpg"
+                                ]
+                            },
+                            "gbs": {
+                                "name": "\u6772\u767e\u987a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/gbs\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/gbs\/1.jpg"
+                                ]
+                            },
+                            "wz": {
+                                "name": "\u6b66\u5fe0",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wz\/1.jpg"
+                                ]
+                            },
+                            "bdx": {
+                                "name": "\u6bd5\u5fb7\u5b5d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/bdx\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/bdx\/1.jpg"
+                                ]
+                            },
+                            "nyl": {
+                                "name": "\u725b\u7389\u6765",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/nyl\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/nyl\/1.jpg"
+                                ]
+                            },
+                            "wyg": {
+                                "name": "\u738b\u4e1a\u5149",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wyg\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wyg\/1.jpg"
+                                ]
+                            },
+                            "wxb": {
+                                "name": "\u738b\u5174\u658c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wxb\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wxb\/1.jpg"
+                                ]
+                            },
+                            "wxd": {
+                                "name": "\u738b\u5e0c\u4e1c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wxd\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/wxd\/1.jpg"
+                                ]
+                            },
+                            "kf": {
+                                "name": "\u9697\u5cf0",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/kf\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gxjskfqgdsdzb\/kf\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "森源控股公司综合党支部": {
+                        "name": "森源控股公司综合党支部"
+                    },
+                    "鲁源工程处党支部": {
+                        "name": "鲁源工程处党支部"
+                    },
+                    "grdgsdzb": {
+                        "name": "\u683c\u745e\u5fb7\u516c\u53f8\u515a\u652f\u90e8",
+                        "child": {
+                            "yx": {
+                                "name": "\u4e8e\u6b23",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/yx\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/yx\/1.jpg"
+                                ]
+                            },
+                            "rly": {
+                                "name": "\u5189\u4ee4\u7389",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/rly\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/rly\/1.jpg"
+                                ]
+                            },
+                            "lb": {
+                                "name": "\u5218\u658c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lb\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lb\/1.jpg"
+                                ]
+                            },
+                            "bst": {
+                                "name": "\u5305\u65f6\u901a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/bst\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/bst\/1.jpg"
+                                ]
+                            },
+                            "yw": {
+                                "name": "\u53f6\u536b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/yw\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/yw\/1.jpg"
+                                ]
+                            },
+                            "ll": {
+                                "name": "\u5415\u826f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/ll\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/ll\/1.jpg"
+                                ]
+                            },
+                            "wh": {
+                                "name": "\u5434\u660a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wh\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wh\/1.jpg"
+                                ]
+                            },
+                            "jyy": {
+                                "name": "\u59ec\u83b9\u94b0",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/jyy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/jyy\/1.jpg"
+                                ]
+                            },
+                            "kxc": {
+                                "name": "\u5b54\u7965\u6210",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/kxc\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/kxc\/1.jpg"
+                                ]
+                            },
+                            "syk": {
+                                "name": "\u5b59\u5143\u594e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/syk\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/syk\/1.jpg"
+                                ]
+                            },
+                            "cxl": {
+                                "name": "\u5d14\u5411\u9f99",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/cxl\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/cxl\/1.jpg"
+                                ]
+                            },
+                            "zy": {
+                                "name": "\u5f20\u52c7",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zy\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zy\/1.jpg"
+                                ]
+                            },
+                            "zyf": {
+                                "name": "\u5f20\u52c7\u98de",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zyf\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zyf\/1.jpg"
+                                ]
+                            },
+                            "zs": {
+                                "name": "\u5f20\u5e05",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zs\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zs\/1.jpg"
+                                ]
+                            },
+                            "zgj": {
+                                "name": "\u5f20\u5e7f\u5bb6",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zgj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zgj\/1.jpg"
+                                ]
+                            },
+                            "zl": {
+                                "name": "\u5f20\u826f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zl\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zl\/1.jpg"
+                                ]
+                            },
+                            "zpt": {
+                                "name": "\u6731\u57f9\u6d9b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zpt\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zpt\/1.jpg"
+                                ]
+                            },
+                            "zsg": {
+                                "name": "\u6731\u5b88\u521a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zsg\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/zsg\/1.jpg"
+                                ]
+                            },
+                            "lbq": {
+                                "name": "\u674e\u5b9d\u82b9",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lbq\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lbq\/1.jpg"
+                                ]
+                            },
+                            "lqc": {
+                                "name": "\u674e\u5e86\u660c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lqc\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lqc\/1.jpg"
+                                ]
+                            },
+                            "lxd": {
+                                "name": "\u674e\u96ea\u51ac",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lxd\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/lxd\/1.jpg"
+                                ]
+                            },
+                            "fz": {
+                                "name": "\u6a0a\u58ee",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/fz\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/fz\/1.jpg"
+                                ]
+                            },
+                            "tdl": {
+                                "name": "\u6ed5\u58a9\u5cad",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/tdl\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/tdl\/1.jpg"
+                                ]
+                            },
+                            "jsh": {
+                                "name": "\u7126\u614e\u534e",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/jsh\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/jsh\/1.jpg"
+                                ]
+                            },
+                            "wll": {
+                                "name": "\u738b\u4e3d\u4e3d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wll\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wll\/1.jpg"
+                                ]
+                            },
+                            "wj": {
+                                "name": "\u738b\u6676",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wj\/1.jpg"
+                                ]
+                            },
+                            "qyj": {
+                                "name": "\u79e6\u52c7\u5065",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/qyj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/qyj\/1.jpg"
+                                ]
+                            },
+                            "csl": {
+                                "name": "\u7a0b\u5c11\u6797",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/csl\/19grgsdzbcsl2n6y2ryqyxdyzshdxc.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/csl\/119.jpg"
+                                ]
+                            },
+                            "gsb": {
+                                "name": "\u803f\u80dc\u5b9d",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/gsb\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/gsb\/1.jpg"
+                                ]
+                            },
+                            "cw": {
+                                "name": "\u8521\u4f1f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/cw\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/cw\/1.jpg"
+                                ]
+                            },
+                            "xfd": {
+                                "name": "\u8c22\u5bcc\u4e1c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/xfd\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/xfd\/1.jpg"
+                                ]
+                            },
+                            "hzb": {
+                                "name": "\u97e9\u4f5c\u5f6c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/hzb\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/hzb\/1.jpg"
+                                ]
+                            },
+                            "mt": {
+                                "name": "\u9a6c\u5766",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mt\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mt\/1.jpg"
+                                ]
+                            },
+                            "mjq": {
+                                "name": "\u9a6c\u5efa\u5f3a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mjq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mjq\/1.jpg"
+                                ]
+                            },
+                            "mb": {
+                                "name": "\u9a6c\u658c",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mb\/2.png",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/mb\/1.jpg"
+                                ]
+                            },
+                            "ml": {
+                                "name": "\u9a6c\u78ca",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/ml\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/ml\/1.jpg"
+                                ]
+                            },
+                            "gq": {
+                                "name": "\u9ad8\u5f3a",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/gq\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/gq\/1.jpg"
+                                ]
+                            },
+                            "wm": {
+                                "name": "\u9b4f\u6c11",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wm\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/grdgsdzb\/wm\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "chjddzb": {
+                        "name": "\u5f69\u8679\u9152\u5e97\u515a\u652f\u90e8",
+                        "child": {
+                            "mfp": {
+                                "name": "\u5b5f\u7e41\u5e73",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/mfp\/4.JPG",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/mfp\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/mfp\/3.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/mfp\/1.jpg"
+                                ]
+                            },
+                            "zmg": {
+                                "name": "\u5f20\u660e\u5e7f",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zmg\/3.JPG",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zmg\/4.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zmg\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zmg\/1.jpg"
+                                ]
+                            },
+                            "zt": {
+                                "name": "\u5f20\u6d9b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zt\/3.JPG",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zt\/4.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zt\/2.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/zt\/1.jpg"
+                                ]
+                            },
+                            "wy": {
+                                "name": "\u738b\u9633",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/wy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/wy\/4.JPG",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/wy\/3.jpg",
+                                    "dw\/2gwjnsgdgsdw\/chjddzb\/wy\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "爱普公司党支部": {
+                        "name": "爱普公司党支部"
+                    },
+                    "康桥置业党支部": {
+                        "name": "康桥置业党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "综合服务中心党支部": {
+                        "name": "综合服务中心党支部"
+                    },
+                    "退休第一党支部": {
+                        "name": "退休第一党支部"
+                    },
+                    "退休第二党支部": {
+                        "name": "退休第二党支部"
+                    },
+                    "退休第三党支部": {
+                        "name": "退休第三党支部"
+                    },
+                    "退休第四党支部": {
+                        "name": "退休第四党支部"
+                    },
+                    "退休第五党支部": {
+                        "name": "退休第五党支部"
+                    },
+                    "退休第六党支部": {
+                        "name": "退休第六党支部"
+                    },
+                    "退休第七党支部": {
+                        "name": "退休第七党支部"
+                    },
+                    "退休第八党支部": {
+                        "name": "退休第八党支部"
+                    },
+                    "调控中心党支部": {
+                        "name": "调控中心党支部"
+                    },
+                    "gdfwzhzxdzb": {
+                        "name": "\u4f9b\u7535\u670d\u52a1\u6307\u6325\u4e2d\u5fc3\u515a\u652f\u90e8",
+                        "child": {
+                            "wqn": {
+                                "name": "\u5434\u9752\u5b81",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/wqn\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/wqn\/1.jpg"
+                                ]
+                            },
+                            "ln": {
+                                "name": "\u674e\u5b81",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/ln\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/ln\/1.jpg"
+                                ]
+                            },
+                            "wl": {
+                                "name": "\u738b\u73b2",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/wl\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/wl\/1.jpg"
+                                ]
+                            },
+                            "smy": {
+                                "name": "\u7ecd\u660e\u71d5",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/smy\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/smy\/1.jpg"
+                                ]
+                            },
+                            "tsj": {
+                                "name": "\u8c2d\u82cf\u541b",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/tsj\/gdfwzhzxdzb6.jpg"
+                                ]
+                            },
+                            "cj": {
+                                "name": "\u9648\u5efa",
+                                "child": [
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/cj\/2.JPG",
+                                    "dw\/2gwjnsgdgsdw\/gdfwzhzxdzb\/cj\/1.jpg"
+                                ]
+                            }
+                        }
+                    },
+                    "经研所党支部": {
+                        "name": "经研所党支部"
+                    },
+                    "项目管理中心党支部": {
+                        "name": "项目管理中心党支部"
+                    },
+                    "信通公司党支部": {
+                        "name": "信通公司党支部"
+                    },
+                    "物资部党支部": {
+                        "name": "物资部党支部"
+                    },
+                    "物业公司党支部": {
+                        "name": "物业公司党支部"
                     }
                 }
             },
             "3gwjnszqqgdgsdw": {
                 "name": "\u56fd\u7f51\u6d4e\u5357\u5e02\u7ae0\u4e18\u533a\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
-                "child": []
+                "child": {
+                    "行政第一党支部": {
+                        "name": "行政第一党支部"
+                    },
+                    "行政第二党支部": {
+                        "name": "行政第二党支部"
+                    },
+                    "综合服务党支部": {
+                        "name": "综合服务党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "生产运维第一党支部": {
+                        "name": "生产运维第一党支部"
+                    },
+                    "生产运维第二党支部": {
+                        "name": "生产运维第二党支部"
+                    },
+                    "客户服务中心党支部": {
+                        "name": "客户服务中心党支部"
+                    },
+                    "圣井供电所党支部": {
+                        "name": "圣井供电所党支部"
+                    },
+                    "普集供电所党支部": {
+                        "name": "普集供电所党支部"
+                    },
+                    "绣惠供电所党支部": {
+                        "name": "绣惠供电所党支部"
+                    },
+                    "高官寨供电所党支部": {
+                        "name": "高官寨供电所党支部"
+                    },
+                    "枣园供电所党支部": {
+                        "name": "枣园供电所党支部"
+                    },
+                    "官庄供电所党支部": {
+                        "name": "官庄供电所党支部"
+                    },
+                    "刁镇供电所党支部": {
+                        "name": "刁镇供电所党支部"
+                    },
+                    "经济开发区供电所党支部": {
+                        "name": "经济开发区供电所党支部"
+                    },
+                    "黄河供电所党支部": {
+                        "name": "黄河供电所党支部"
+                    },
+                    "曹范供电所党支部": {
+                        "name": "曹范供电所党支部"
+                    },
+                    "垛庄供电所党支部": {
+                        "name": "垛庄供电所党支部"
+                    },
+                    "明水供电所党支部": {
+                        "name": "明水供电所党支部"
+                    },
+                    "文祖供电所党支部": {
+                        "name": "文祖供电所党支部"
+                    },
+                    "龙山供电所党支部": {
+                        "name": "龙山供电所党支部"
+                    },
+                    "相公供电所党支部": {
+                        "name": "相公供电所党支部"
+                    },
+                    "白云供电所党支部": {
+                        "name": "白云供电所党支部"
+                    },
+                    "章源综合业务党支部": {
+                        "name": "章源综合业务党支部"
+                    },
+                    "章源建设工程党支部": {
+                        "name": "章源建设工程党支部"
+                    },
+                    "电力安装党支部": {
+                        "name": "电力安装党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "离退休第一党支部": {
+                        "name": "离退休第一党支部"
+                    },
+                    "离退休第二党支部": {
+                        "name": "离退休第二党支部"
+                    },
+                    "离退休第三党支部": {
+                        "name": "离退休第三党支部"
+                    }
+                }
             },
             "4gwjnscqqgdgsdw": {
                 "name": "\u56fd\u7f51\u6d4e\u5357\u5e02\u957f\u6e05\u533a\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
-                "child": []
+                "child": {
+                    "机关第一党支部": {
+                        "name": "机关第一党支部"
+                    },
+                    "机关第二党支部": {
+                        "name": "机关第二党支部"
+                    },
+                    "机关第三党支部": {
+                        "name": "机关第三党支部"
+                    },
+                    "运维检修部党支部": {
+                        "name": "运维检修部党支部"
+                    },
+                    "营销部党支部": {
+                        "name": "营销部党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "长能集团总部党支部": {
+                        "name": "长能集团总部党支部"
+                    },
+                    "物资党支部": {
+                        "name": "物资党支部"
+                    },
+                    "长能一处党支部": {
+                        "name": "长能一处党支部"
+                    },
+                    "长能二处党支部": {
+                        "name": "长能二处党支部"
+                    },
+                    "离退休第一党支部": {
+                        "name": "离退休第一党支部"
+                    },
+                    "离退休第二党支部": {
+                        "name": "离退休第二党支部"
+                    },
+                    "离退休第三党支部": {
+                        "name": "离退休第三党支部"
+                    },
+                    "离退休第四党支部": {
+                        "name": "离退休第四党支部"
+                    },
+                    "离退休第五党支部": {
+                        "name": "离退休第五党支部"
+                    },
+                    "离退休第六党支部": {
+                        "name": "离退休第六党支部"
+                    }
+                }
             },
             "5gwpyxgdgsdw": {
                 "name": "\u56fd\u7f51\u5e73\u9634\u53bf\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
-                "child": []
+                "child": {
+                    "机关党支部": {
+                        "name": "机关党支部"
+                    },
+                    "运维检修部党支部": {
+                        "name": "运维检修部党支部"
+                    },
+                    "营销部党支部": {
+                        "name": "营销部党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "安装公司党支部": {
+                        "name": "安装公司党支部"
+                    },
+                    "内退党支部": {
+                        "name": "内退党支部"
+                    },
+                    "退休第一党支部": {
+                        "name": "退休第一党支部"
+                    },
+                    "退休第二党支部": {
+                        "name": "退休第二党支部"
+                    },
+                    "济西工业园区供电所第一党支部": {
+                        "name": "济西工业园区供电所第一党支部"
+                    },
+                    "济西工业园区供电所第二党支部": {
+                        "name": "济西工业园区供电所第二党支部"
+                    },
+                    "安城供电所党支部": {
+                        "name": "安城供电所党支部"
+                    },
+                    "孝直供电所党支部": {
+                        "name": "孝直供电所党支部"
+                    },
+                    "玫瑰供电所党支部": {
+                        "name": "玫瑰供电所党支部"
+                    },
+                    "洪范供电所第一党支部": {
+                        "name": "洪范供电所第一党支部"
+                    },
+                    "洪范供电所第二党支部": {
+                        "name": "洪范供电所第二党支部"
+                    },
+                    "孔村供电所党支部": {
+                        "name": "孔村供电所党支部"
+                    }
+                }
             },
             "6gwjyxgdgsdw": {
                 "name": "\u56fd\u7f51\u6d4e\u9633\u53bf\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
-                "child": []
+                "child": {
+                    "机关第一党支部": {
+                        "name": "机关第一党支部"
+                    },
+                    "机关第二党支部": {
+                        "name": "机关第二党支部"
+                    },
+                    "营销部党支部": {
+                        "name": "营销部党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "运维检修党支部": {
+                        "name": "运维检修党支部"
+                    },
+                    "济北经济开发区供电所党支部": {
+                        "name": "济北经济开发区供电所党支部"
+                    },
+                    "供电所第一党支部": {
+                        "name": "供电所第一党支部"
+                    },
+                    "供电所第二党支部": {
+                        "name": "供电所第二党支部"
+                    },
+                    "供电所第三党支部": {
+                        "name": "供电所第三党支部"
+                    },
+                    "富阳公司党支部": {
+                        "name": "富阳公司党支部"
+                    },
+                    "光明公司党支部": {
+                        "name": "光明公司党支部"
+                    },
+                    "离退休党支部": {
+                        "name": "离退休党支部"
+                    }
+                }
             },
             "7gwshxgdgsdw": {
                 "name": "\u56fd\u7f51\u5546\u6cb3\u53bf\u4f9b\u7535\u516c\u53f8\u515a\u59d4",
-                "child": []
+                "child": {
+                    "营销党支部": {
+                        "name": "营销党支部"
+                    },
+                    "贾庄供电所党支部": {
+                        "name": "贾庄供电所党支部"
+                    },
+                    "龙桑寺供电所党支部": {
+                        "name": "龙桑寺供电所党支部"
+                    },
+                    "白桥供电所党支部": {
+                        "name": "白桥供电所党支部"
+                    },
+                    "怀仁供电所党支部": {
+                        "name": "怀仁供电所党支部"
+                    },
+                    "沙河供电所党支部": {
+                        "name": "沙河供电所党支部"
+                    },
+                    "殷巷供电所党支部": {
+                        "name": "殷巷供电所党支部"
+                    },
+                    "玉皇庙供电所党支部": {
+                        "name": "玉皇庙供电所党支部"
+                    },
+                    "郑路供电所党支部": {
+                        "name": "郑路供电所党支部"
+                    },
+                    "孙集供电所委员会": {
+                        "name": "孙集供电所委员会"
+                    },
+                    "机关第一党支部": {
+                        "name": "机关第一党支部"
+                    },
+                    "机关第二党支部": {
+                        "name": "机关第二党支部"
+                    },
+                    "运维检修党支部": {
+                        "name": "运维检修党支部"
+                    },
+                    "调控分中心党支部": {
+                        "name": "调控分中心党支部"
+                    },
+                    "三维党支部": {
+                        "name": "三维党支部"
+                    },
+                    "光明党支部": {
+                        "name": "光明党支部"
+                    },
+                    "老年第一党支部": {
+                        "name": "老年第一党支部"
+                    },
+                    "老年第二党支部": {
+                        "name": "老年第二党支部"
+                    }
+                }
             }
         }
     }

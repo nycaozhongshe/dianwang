@@ -1,6 +1,7 @@
 <!-- Department -->
 <template>
-  <Dang-Wei-Bg pre-path="/dangWei">
+  <Dang-Wei-Bg pre-path="/dangWei"
+               @clear="clear">
 
     <div class="input__warpper">
       <el-input placeholder="请输入姓名"
@@ -38,7 +39,18 @@
                        :autoplay="false">
             <el-carousel-item v-for="item in activeImgList"
                               :key="item">
-              <img :src="`./${item}`"
+
+              <div v-if="validateLowerCase(item)"
+                   style="width:100%;height:100%">
+
+                <video-player class="video-player vjs-custom-skin"
+                              ref="videoPlayer"
+                              :playsinline="true"
+                              :options="playerOptions">
+                </video-player>
+              </div>
+              <img v-else
+                   :src="`./${item}`"
                    alt="">
 
             </el-carousel-item>
@@ -73,7 +85,30 @@ export default {
       data: {},
       returnData: {},
       centerDialogVisible: false,
-      activeImgList: []
+      activeImgList: [],
+      playerOptions: {
+        height: '360',
+        playbackRates: [0.7, 1.0, 1.5, 2.0], // 播放速度
+        autoplay: false, // 如果true,浏览器准备好时开始回放。
+        muted: false, // 默认情况下将会消除任何音频。
+        loop: false, // 导致视频一结束就重新开始。
+        preload: 'auto', // 建议浏览器在<video>加载元素后是否应该开始下载视频数据。auto浏览器选择最佳行为,立即开始加载视频（如果浏览器支持）
+        language: 'zh-CN',
+        aspectRatio: '16:9', // 将播放器置于流畅模式，并在计算播放器的动态大小时使用该值。值应该代表一个比例 - 用冒号分隔的两个数字（例如"16:9"或"4:3"）
+        fluid: true, // 当true时，Video.js player将拥有流体大小。换句话说，它将按比例缩放以适应其容器。
+        sources: [],
+        poster: '', // 你的封面地址
+        // width: document.documentElement.clientWidth,
+        notSupportedMessage: '此视频暂无法播放，请稍后再试', // 允许覆盖Video.js无法播放媒体源时显示的默认信息。
+
+
+        controlBar: {
+          timeDivider: false,
+          durationDisplay: true,
+          remainingTimeDisplay: true,
+          fullscreenToggle: true // 全屏按钮
+        }
+      }
     }
   },
   computed: {},
@@ -94,8 +129,7 @@ export default {
   created () {
 
     this.data = json.dw.child
-    // eslint-disable-next-line
-    console.log(this.data);
+
 
   },
 
@@ -104,6 +138,22 @@ export default {
   destroyed () { },
 
   methods: {
+    src (item) {
+      this.playerOptions.sources = Object.assign([], [{
+        // type: 'video/mp4',
+        src: item// url地址
+      }])
+    },
+    validateLowerCase (str) {
+      const reg = /.+\.mp4/
+      if (reg.test(str)) {
+        this.src(str)
+      }
+      return reg.test(str)
+    },
+    pre () {
+
+    },
     serch () {
 
       this.returnData = Object.assign({}, {})
@@ -113,7 +163,7 @@ export default {
 
       if (JSON.stringify(this.returnData) !== '{}') {
         // this.$message('暂无此人信息')
-        this.activeImgList = this.returnData.child
+        this.activeImgList = this.returnData.child.reverse()
         this.centerDialogVisible = true
       } else {
         this.$message('暂无此人信息')
@@ -155,13 +205,24 @@ export default {
       // eslint-disable-next-line
       console.log(item);
 
-      this.$router.push({
+      let route = {
         path: path,
         query: {
           name: item.name,
-          list: JSON.stringify(item.child)
         }
-      })
+      }
+      if (item.child) {
+        route.query.list = JSON.stringify(item.child)
+      } else {
+        route.query.list = JSON.stringify({})
+      }
+      this.serchKey = ""
+      this.$router.push(route)
+    },
+    clear () {
+      this.serchKey = ""
+      // console.log(1111);
+
     }
   }
 }
@@ -257,11 +318,31 @@ export default {
   }
 }
 
+.video-player {
+  height: 100%;
+  width: 100%;
+  .video-js.vjs-fluid {
+    height: 100% !important;
+    padding: 0 !important;
+  }
+  .video-js .vjs-big-play-button {
+    top: 50%;
+    left: 50%;
+    margin-left: -1.5em;
+    margin-top: -1em;
+    background-color: rgba(0, 0, 0, 0.45);
+    font-size: 3.5em;
+    height: 2em !important;
+    line-height: 2em !important;
+    margin-top: -1em !important;
+  }
+}
+
 .el-carousel,
 .el-carousel__container {
   height: 100%;
-  padding-left: 3%;
-  padding-right: 3%;
+  padding-left: 13%;
+  padding-right: 13%;
 }
 .el-carousel__arrow {
   background: red;
