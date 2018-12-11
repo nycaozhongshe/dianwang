@@ -3,17 +3,6 @@
   <Dang-Wei-Bg pre-path="/dangWei"
                @clear="clear">
 
-    <div class="input__warpper">
-      <el-input placeholder="请输入姓名"
-                v-model="serchKey"
-                @keyup.enter.native="serch">
-        <i slot="suffix"
-           class="el-input__icon  el-icon-search"
-           @click="serch">
-        </i>
-      </el-input>
-    </div>
-
     <div class="department__wrapper">
       <div class="title">{{$route.query.name}}</div>
       <div class="department-content">
@@ -25,40 +14,6 @@
       </div>
     </div>
 
-    <transition name="fade">
-      <div class="dialog__warpper"
-           v-if="centerDialogVisible"
-           @click.stop.prevent="centerDialogVisible =false">
-        <div class="close">x</div>
-
-        <div class="video-player__warpper"
-             @click.stop.prevent="pre">
-
-          <el-carousel :indicator-position="activeImgList&&activeImgList.length>1?'o':'none'"
-                       :arrow="activeImgList&&activeImgList.length>1?'always':'never'"
-                       :autoplay="false">
-            <el-carousel-item v-for="item in activeImgList"
-                              :key="item">
-
-              <div v-if="validateLowerCase(item)"
-                   style="width:100%;height:100%">
-
-                <video-player class="video-player vjs-custom-skin"
-                              ref="videoPlayer"
-                              :playsinline="true"
-                              :options="playerOptions">
-                </video-player>
-              </div>
-              <img v-else
-                   :src="`./${item}`"
-                   alt="">
-
-            </el-carousel-item>
-          </el-carousel>
-        </div>
-
-      </div>
-    </transition>
   </Dang-Wei-Bg>
 </template>
 
@@ -158,8 +113,7 @@ export default {
 
       this.returnData = Object.assign({}, {})
       this.forIn(this.data)
-      // eslint-disable-next-line
-      console.log(this.returnData);
+
 
       if (JSON.stringify(this.returnData) !== '{}') {
         // this.$message('暂无此人信息')
@@ -173,8 +127,7 @@ export default {
     },
 
     forIn (object) {
-      // eslint-disable-next-line
-      console.log('开始');
+
 
 
       for (const key in object) {
@@ -202,8 +155,7 @@ export default {
       }
     },
     gotoPage (path, item) {
-      // eslint-disable-next-line
-      console.log(item);
+
 
       let route = {
         path: path,
@@ -221,8 +173,6 @@ export default {
     },
     clear () {
       this.serchKey = ""
-      // console.log(1111);
-
     }
   }
 }
@@ -273,100 +223,6 @@ export default {
     }
   }
 }
-
-.dialog__warpper {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.45);
-  padding: 4%;
-  z-index: 9999;
-  .close {
-    position: absolute;
-    right: 2%;
-    top: 2%;
-    font-size: 4vw;
-    color: #fff;
-  }
-  .video-player__warpper {
-    height: 100%;
-    width: 100%;
-  }
-}
 </style>
 
-<style lang="scss">
-.input__warpper {
-  width: 18vw;
-  position: absolute;
-  right: 4%;
-  top: 5%;
-  .el-input__inner {
-    height: 4vw;
-    line-height: 4vw;
-    font-size: 1.8vw;
-  }
-  .el-input__icon {
-    width: 4vw;
-    font-size: 1.8vw;
-    line-height: 1;
-  }
-  .el-input__inner:focus {
-    border-color: #d0121b;
-  }
-}
-
-.video-player {
-  height: 100%;
-  width: 100%;
-  .video-js.vjs-fluid {
-    height: 100% !important;
-    padding: 0 !important;
-  }
-  .video-js .vjs-big-play-button {
-    top: 50%;
-    left: 50%;
-    margin-left: -1.5em;
-    margin-top: -1em;
-    background-color: rgba(0, 0, 0, 0.45);
-    font-size: 3.5em;
-    height: 2em !important;
-    line-height: 2em !important;
-    margin-top: -1em !important;
-  }
-}
-
-.el-carousel,
-.el-carousel__container {
-  height: 100%;
-  padding-left: 13%;
-  padding-right: 13%;
-}
-.el-carousel__arrow {
-  background: red;
-  height: 5vw;
-  width: 5vw;
-  font-size: 4vw;
-}
-.el-carousel__button {
-  height: 1vw;
-  width: 4vw;
-}
-.el-carousel__arrow--right {
-  right: -0.9vw;
-}
-.el-carousel__arrow--left {
-  left: -0.9vw;
-}
-.el-carousel__item {
-  display: flex;
-  align-items: center;
-  img {
-    max-height: 100%;
-    height: auto;
-  }
-}
-</style>
 

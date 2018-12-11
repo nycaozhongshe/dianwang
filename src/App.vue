@@ -33,9 +33,7 @@ export default {
   },
 
   created () {
-    // let a = unescape('10\u6218\u7965\u771f')
-    // eslint-disable-next-line
-    // console.log(json);
+
 
   },
 

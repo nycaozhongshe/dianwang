@@ -26,6 +26,8 @@ Vue.use(VueVideoPlayer /* {
 } */)
 
 
+// eslint-disable-next-line
+
 const baseUrl = process.env.BASE_URL
 
 Vue.prototype.$baseUrl = baseUrl
